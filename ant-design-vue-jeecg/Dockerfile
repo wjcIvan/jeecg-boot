@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:1-bullseye
 MAINTAINER jeecgos@163.com
 VOLUME /tmp
 ENV LANG en_US.UTF-8
