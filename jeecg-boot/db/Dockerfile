@@ -1,4 +1,4 @@
-FROM mysql:8.0.38
+FROM mysql:8.4.1
 
 MAINTAINER jeecgos@163.com
 
