@@ -35,7 +35,7 @@
 		<guava.version>29.0-jre</guava.version>
 		<mybatis-plus.version>3.4.3.1</mybatis-plus.version>
 		<druid.version>1.1.22</druid.version>
-		<commons.version>2.6</commons.version>
+		<commons.version>2.14.0</commons.version>
 		<aliyun-java-sdk-dysmsapi.version>2.1.0</aliyun-java-sdk-dysmsapi.version>
 		<aliyun.oss.version>3.11.2</aliyun.oss.version>
 		<shiro.version>1.7.1</shiro.version>
