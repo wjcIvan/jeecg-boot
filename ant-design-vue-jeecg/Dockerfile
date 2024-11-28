@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:1.23.2
 MAINTAINER jeecgos@163.com
 VOLUME /tmp
 ENV LANG en_US.UTF-8
