@@ -24,7 +24,7 @@
     "nprogress": "^0.2.0",
     "vue": "^2.6.10",
     "vue-cropper": "^0.5.4",
-    "vue-i18n": "^8.7.0",
+    "vue-i18n": "^9.14.5",
     "vue-loader": "^15.7.0",
     "vue-ls": "^3.2.0",
     "vue-router": "^3.0.1",
